@@ -1,7 +1,15 @@
 # [formularz ](formularz.nierezydent.pl)
 
 
+Formularz służy kalkulacji korzyści i wad różnych rezydencji, będzie dostepny do testowania na dniach, to będzie prosty formularz z kilkoma opcjami do zaznaczenia i jako wynik będzie widoczna tabela z podsumowaniem aktualnego kosztu na aktualny rok oraz propozycja zmiany na najkorzystniejszą w obrębie Europy, z czasem będę dodawał kolejne kontynenty.
+
+
+To projekt otwarty więc każdy może pomóc uwagami oraz propozycjami, dlatego też powstała ta grupa byśmy sobie pomogli w odpowiedzi na różne pytania.
+
+
 ## Formaty plików
+
+
 
 korzyści i wady lokalizacji
 ```csv
