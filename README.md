@@ -32,7 +32,7 @@ COUNTRY, Language, Population
 ```
 
 
-## USER data
+### USER data
 
 
 + select: one person OR with wife
@@ -54,12 +54,18 @@ partner, kraj pobytu, ilosc dni pobytu dzieci, zarobki, waluta, uslugi
 ```
 
 
-## input
+### Variables
 
-```csv
-if COUNTRY.language
+
+
+### Conditions in python
+
+
+```python
+if COUNTRY.name == 'PL' and 
 
 ```
+
 
 
 ## Output
@@ -74,14 +80,14 @@ Variables:
   + 
 
 
-## działanie
+### Actions
 
 + załadowanie danych do tablicy COUNTRY, USER i przeprowadzenie na nich warunków i zapisanie dozmiennych wyjśćiowych
 
 
 
 
-## definicje
+### Definitions
 
 ```yml
 country:
