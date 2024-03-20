@@ -1,4 +1,4 @@
-# [formularz ](formularz.nierezydent.pl)
+# [formularz](https://nierezydent.github.io/formularz/)
 
 
 Formularz służy kalkulacji korzyści i wad różnych rezydencji, będzie dostepny do testowania na dniach, to będzie prosty formularz z kilkoma opcjami do zaznaczenia i jako wynik będzie widoczna tabela z podsumowaniem aktualnego kosztu na aktualny rok oraz propozycja zmiany na najkorzystniejszą w obrębie Europy, z czasem będę dodawał kolejne kontynenty.
