@@ -82,6 +82,7 @@ Variables:
 
 ### Actions
 
++ country code as array
 + załadowanie danych do tablicy COUNTRY, USER i przeprowadzenie na nich warunków i zapisanie dozmiennych wyjśćiowych
 
 
