@@ -94,5 +94,11 @@ Variables:
 country:
   - pros
   - cons
-
 ```
+
+
+
+## techstack
+
+[Full Stack FastAPI + VanillaJS Tutorial - YouTube](https://www.youtube.com/watch?v=p9YTVAq472E)
+
